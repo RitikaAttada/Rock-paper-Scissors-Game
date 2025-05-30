@@ -26,7 +26,7 @@
 
    ```bash
    git clone https://github.com/RitikaAttada/Rock-paper-Scissors-Game.git
-2. Open `mainpage.html` in your browser.
+2. Open `index.html` in your browser.
 3. Click the Rock, Paper, or Scissors button to play a round.
 4. View the results and your updated scores.
 5. Use the Reset button to clear the scoreboard.
